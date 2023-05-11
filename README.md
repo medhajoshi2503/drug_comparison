@@ -1,5 +1,14 @@
-# drug_comparison
-This code compares two drugs under tria on their effectiveness on toy data set
+# Drug comparison
+This code compares two drugs under tria on their effectiveness on toy data set.
+This was developed as a part of a class assignment in the course work Introdcution of Machine learning.
+
+Follwing was the problem statement 
+You are a drug manufacturer and you want to study whether your drug, namely drug A, leads to a higher rate of recovery than drug B. 
+What are the input samples/feature vectors you will use, the loss function, hypothesis classes and the output labels. Justify your answers. 
+How many samples of feature vectors will you require to obtain a PAC solution? Propose a learning algorithm and evaluate its performance using some toy data set. 
+Now let us bring a small twist to the problem. Instead of wanting to study whether your drug is better, you want to show using your algorithm that your drug is indeed better. What is the difference between the above and the current scenario? How will you use the data set you had for the previous problem and obtain a PAC solution which favors drug A? 
+
+**Answer**
 
 **Qualitative Definition of a Drug** 
 Although there are many factors by which a drug can be qualified, when considered for use, below are parameters which are used to decide one drug over the other. 
