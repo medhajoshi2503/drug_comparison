@@ -1,5 +1,5 @@
 # drug_comparison
-This code compares two drugs under trail on their effectiveness on toy data set
+This code compares two drugs under tria on their effectiveness on toy data set
 
 **Qualitative Definition of a Drug** 
 Although there are many factors by which a drug can be qualified, when considered for use, below are parameters which are used to decide one drug over the other. 
