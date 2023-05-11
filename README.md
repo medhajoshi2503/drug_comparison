@@ -1,8 +1,9 @@
 # Drug comparison
 This code compares two drugs under tria on their effectiveness on toy data set.
-This was developed as a part of a class assignment in the course work Introdcution of Machine learning.
+This was developed as a part of a class assignment in the course work Introdcution to Machine Learnin MCS001
 
-Follwing was the problem statement 
+**Follwing was the problem statemen**  
+
 You are a drug manufacturer and you want to study whether your drug, namely drug A, leads to a higher rate of recovery than drug B. 
 What are the input samples/feature vectors you will use, the loss function, hypothesis classes and the output labels. Justify your answers. 
 How many samples of feature vectors will you require to obtain a PAC solution? Propose a learning algorithm and evaluate its performance using some toy data set. 
